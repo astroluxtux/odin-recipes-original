@@ -1,2 +1,3 @@
 # odin-recipes
 Repository for Family Recipes
+This project is helping me develop all of skills as a web developer utilizing HTML, Git, GitHub, and the Command Line. I'm finding it to be quite challenging, but I have grown beyond what I ever thought possible. My confidence is growing by the day, but I still feel like a minnow in the Pacific. I am learning to navigate the Command Line with each on going day. Learning about committing is proving to be super difficult for me to understand, but I am working on it diligently. 
